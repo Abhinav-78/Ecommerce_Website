@@ -1,7 +1,8 @@
 <div align="center">
   <br />
 
-  <h2 align="center">Footcap - eCommerce website</h2>
+  
+  <a href="https://abhinav-78.github.io/Ecommerce_Website/" target="_blank">Footcap - eCommerce website</a>
 
   Footcap is fully responsive ecommerce website, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
 
